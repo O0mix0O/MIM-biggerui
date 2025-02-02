@@ -1,5 +1,5 @@
 {
-    "namespace": "TEMPLATENAME",
+    "namespace": "biggerui",
     "setup": "setup.mjs",
     "load": ["style.css"]
   }
