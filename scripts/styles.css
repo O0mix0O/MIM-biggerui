@@ -1,0 +1,485 @@
+body {
+    font-size: 1rem
+}
+
+small {
+    font-size: 80%
+}
+
+sub,
+sup {
+    font-size: 75%
+}
+
+pre,
+code,
+kbd,
+samp {
+    font-size: 1em
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+    font-size: inherit
+}
+
+legend {
+    font-size: 1.5rem
+}
+
+h1,
+.h1 {
+    font-size: 2.25rem
+}
+
+h2,
+.h2 {
+    font-size: 1.875rem
+}
+
+h3,
+.h3 {
+    font-size: 1.5rem
+}
+
+h4,
+.h4 {
+    font-size: 1.25rem
+}
+
+h5,
+.h5 {
+    font-size: 1.125rem
+}
+
+h6,
+.h6 {
+    font-size: 1rem
+}
+
+.lead {
+    font-size: 1.5rem
+}
+
+.display-1 {
+    font-size: 6rem
+}
+
+.display-2 {
+    font-size: 5.5rem
+}
+
+.display-3 {
+    font-size: 4.5rem
+}
+
+.display-4 {
+    font-size: 3.5rem
+}
+
+small,
+.small {
+    font-size: 80%
+}
+
+.initialism {
+    font-size: 90%
+}
+
+.blockquote {
+    font-size: 1.25rem
+}
+
+.blockquote-footer {
+    font-size: 80%
+}
+
+.figure-caption {
+    font-size: 90%
+}
+
+code {
+    font-size: 87.5%
+}
+
+kbd {
+    font-size: 87.5%
+}
+
+kbd kbd {
+    font-size: 100%
+}
+
+pre {
+    font-size: 87.5%
+}
+
+pre code {
+    font-size: inherit
+}
+
+.form-control {
+    font-size: 1rem
+}
+
+.col-form-label {
+    font-size: inherit
+}
+
+.col-form-label-lg {
+    font-size: 1rem
+}
+
+.col-form-label-sm {
+    font-size: 0.875rem
+}
+
+.form-control-plaintext {
+    font-size: 1rem
+}
+
+.form-control-sm {
+    font-size: 0.875rem
+}
+
+.form-control-lg {
+    font-size: 1rem
+}
+
+.valid-feedback {
+    font-size: 0.875rem
+}
+
+.valid-tooltip {
+    font-size: 0.875rem
+}
+
+.invalid-feedback {
+    font-size: 0.875rem
+}
+
+.invalid-tooltip {
+    font-size: 0.875rem
+}
+
+.btn {
+    font-size: 1rem
+}
+
+.btn-lg,
+.btn-group-lg>.btn {
+    font-size: 1rem
+}
+
+.btn-sm,
+.btn-group-sm>.btn {
+    font-size: 0.875rem
+}
+
+.dropdown-menu {
+    font-size: 1rem
+}
+
+.dropdown-header {
+    font-size: 0.875rem
+}
+
+.input-group-text {
+    font-size: 1rem
+}
+
+.input-group-lg>.form-control,
+.input-group-lg>.custom-select,
+.input-group-lg>.input-group-prepend>.input-group-text,
+.input-group-lg>.input-group-append>.input-group-text,
+.input-group-lg>.input-group-prepend>.btn,
+.input-group-lg>.input-group-append>.btn {
+    font-size: 1rem
+}
+
+.input-group-sm>.form-control,
+.input-group-sm>.custom-select,
+.input-group-sm>.input-group-prepend>.input-group-text,
+.input-group-sm>.input-group-append>.input-group-text,
+.input-group-sm>.input-group-prepend>.btn,
+.input-group-sm>.input-group-append>.btn {
+    font-size: 0.875rem
+}
+
+.custom-select {
+    font-size: 1rem
+}
+
+.custom-select-sm {
+    font-size: 0.875rem
+}
+
+.custom-select-lg {
+    font-size: 1rem
+}
+
+.pagination-lg .page-link {
+    font-size: 1.25rem
+}
+
+.pagination-sm .page-link {
+    font-size: 0.875rem
+}
+
+.badge {
+    font-size: 75%
+}
+
+.progress {
+    font-size: 1rem
+}
+
+.close {
+    font-size: 1.5rem
+}
+
+.toast {
+    font-size: 0.875rem
+}
+
+.tooltip {
+    font-size: 0.875rem
+}
+
+.popover {
+    font-size: 0.875rem
+}
+
+.popover-header {
+    font-size: 1rem
+}
+
+html {
+    font-size: 16px
+}
+
+.story p,
+p.story {
+    font-size: 1.125rem
+}
+
+.font-size-h1 {
+    font-size: 2.25rem
+}
+
+.font-size-h2 {
+    font-size: 1.875rem
+}
+
+.font-size-h3 {
+    font-size: 1.5rem
+}
+
+.font-size-h4 {
+    font-size: 1.25rem
+}
+
+.font-size-h5 {
+    font-size: 1.125rem
+}
+
+.font-size-h6 {
+    font-size: 1rem
+}
+
+.display-2 {
+    font-size: 3.666667rem
+}
+
+.display-3 {
+    font-size: 3rem
+}
+
+.display-4 {
+    font-size: 2.333333rem
+}
+
+h1,
+.h1,
+.font-size-h1 {
+    font-size: 1.875rem
+}
+
+h2,
+.h2,
+.font-size-h2 {
+    font-size: 1.5rem
+}
+
+h3,
+.h3,
+.font-size-h3 {
+    font-size: 1.25rem
+}
+
+h4,
+.h4,
+.font-size-h4 {
+    font-size: 1.125rem
+}
+
+h5,
+.h5,
+.font-size-h5,
+h6,
+.h6,
+.font-size-h6 {
+    font-size: 1rem
+}
+
+.content-heading {
+    font-size: 0.875rem
+}
+
+.content-heading small {
+    font-size: 0.875rem
+}
+
+.table thead th {
+    font-size: 0.875rem
+}
+
+.nav-tabs-block .nav-link {
+    font-size: 0.875rem
+}
+
+.nav-tabs-alt .nav-link {
+    font-size: 0.875rem
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-item {
+    font-size: 0.875rem
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-item+.breadcrumb-item::before {
+    font-size: 0.875rem
+}
+
+.block-title {
+    font-size: 0.875rem
+}
+
+.block-title small {
+    font-size: 0.875rem
+}
+
+.block.block-mode-loading::after {
+    font-size: 1.125rem
+}
+
+.nav-main-heading {
+    font-size: 0.75rem
+}
+
+.nav-main-link {
+    font-size: 0.875rem
+}
+
+.nav-main-link .nav-main-link-badge {
+    font-size: 0.75rem
+}
+
+.nav-main-link.nav-main-link-submenu::before {
+    font-size: 0.75rem
+}
+
+.nav-main-submenu .nav-main-link {
+    font-size: 0.8125rem
+}
+
+.font-size-base {
+    font-size: 1rem !important
+}
+
+.font-size-lg {
+    font-size: 1.25rem !important
+}
+
+.font-size-sm {
+    font-size: 0.875rem !important
+}
+
+.fa-lg {
+    font-size: 1.333333em
+}
+
+.fa-xs {
+    font-size: 0.75em
+}
+
+.fa-sm {
+    font-size: 0.875em
+}
+
+.fa-1x {
+    font-size: 1em
+}
+
+.fa-2x {
+    font-size: 2em
+}
+
+.fa-3x {
+    font-size: 3em
+}
+
+.fa-4x {
+    font-size: 4em
+}
+
+.fa-5x {
+    font-size: 5em
+}
+
+.fa-6x {
+    font-size: 6em
+}
+
+.fa-7x {
+    font-size: 7em
+}
+
+.fa-8x {
+    font-size: 8em
+}
+
+.fa-9x {
+    font-size: 9em
+}
+
+.fa-10x {
+    font-size: 10em
+}
+
+.fa-stack-2x {
+    font-size: 2em
+}
+
+.dropzone .dz-message {
+    font-size: 1rem
+}
+
+.fc-theme-bootstrap .fc-col-header-cell {
+    font-size: 0.875rem
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    font-size: 0.875rem
+}
+
+.slick-slider .slick-prev::before,
+.slick-slider .slick-next::before {
+    font-size: 28px
+}
+
+#page-container.rtl-support .nav-main-link .nav-main-link-badge {
+    font-size: 0.75rem
+}
