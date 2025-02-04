@@ -1,0 +1,487 @@
+/* 5% Styling */
+
+body {
+    font-size: 1.05rem;
+}
+
+small {
+    font-size: 84%;
+}
+
+sub,
+sup {
+    font-size: 78.75%;
+}
+
+pre,
+code,
+kbd,
+samp {
+    font-size: 1.05rem;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+    font-size: inherit;
+}
+
+legend {
+    font-size: 1.575rem;
+}
+
+h1,
+.h1 {
+    font-size: 2.3625rem;
+}
+
+h2,
+.h2 {
+    font-size: 1.96875rem;
+}
+
+h3,
+.h3 {
+    font-size: 1.575rem;
+}
+
+h4,
+.h4 {
+    font-size: 1.3125rem;
+}
+
+h5,
+.h5 {
+    font-size: 1.18125rem;
+}
+
+h6,
+.h6 {
+    font-size: 1.05rem;
+}
+
+.lead {
+    font-size: 1.575rem;
+}
+
+.display-1 {
+    font-size: 6.3rem;
+}
+
+.display-2 {
+    font-size: 5.775rem;
+}
+
+.display-3 {
+    font-size: 4.725rem;
+}
+
+.display-4 {
+    font-size: 3.675rem;
+}
+
+small,
+.small {
+    font-size: 84%;
+}
+
+.initialism {
+    font-size: 94.5%;
+}
+
+.blockquote {
+    font-size: 1.3125rem;
+}
+
+.blockquote-footer {
+    font-size: 84%;
+}
+
+.figure-caption {
+    font-size: 94.5%;
+}
+
+code {
+    font-size: 91.875%;
+}
+
+kbd {
+    font-size: 91.875%;
+}
+
+kbd kbd {
+    font-size: 105%;
+}
+
+pre {
+    font-size: 91.875%;
+}
+
+pre code {
+    font-size: inherit;
+}
+
+.form-control {
+    font-size: 1.05rem;
+}
+
+.col-form-label {
+    font-size: inherit;
+}
+
+.col-form-label-lg {
+    font-size: 1.05rem;
+}
+
+.col-form-label-sm {
+    font-size: 0.91875rem;
+}
+
+.form-control-plaintext {
+    font-size: 1.05rem;
+}
+
+.form-control-sm {
+    font-size: 0.91875rem;
+}
+
+.form-control-lg {
+    font-size: 1.05rem;
+}
+
+.valid-feedback {
+    font-size: 0.91875rem;
+}
+
+.valid-tooltip {
+    font-size: 0.91875rem;
+}
+
+.invalid-feedback {
+    font-size: 0.91875rem;
+}
+
+.invalid-tooltip {
+    font-size: 0.91875rem;
+}
+
+.btn {
+    font-size: 1.05rem;
+}
+
+.btn-lg,
+.btn-group-lg>.btn {
+    font-size: 1.05rem;
+}
+
+.btn-sm,
+.btn-group-sm>.btn {
+    font-size: 0.91875rem;
+}
+
+.dropdown-menu {
+    font-size: 1.05rem;
+}
+
+.dropdown-header {
+    font-size: 0.91875rem;
+}
+
+.input-group-text {
+    font-size: 1.05rem;
+}
+
+.input-group-lg>.form-control,
+.input-group-lg>.custom-select,
+.input-group-lg>.input-group-prepend>.input-group-text,
+.input-group-lg>.input-group-append>.input-group-text,
+.input-group-lg>.input-group-prepend>.btn,
+.input-group-lg>.input-group-append>.btn {
+    font-size: 1.05rem;
+}
+
+.input-group-sm>.form-control,
+.input-group-sm>.custom-select,
+.input-group-sm>.input-group-prepend>.input-group-text,
+.input-group-sm>.input-group-append>.input-group-text,
+.input-group-sm>.input-group-prepend>.btn,
+.input-group-sm>.input-group-append>.btn {
+    font-size: 0.91875rem;
+}
+
+.custom-select {
+    font-size: 1.05rem;
+}
+
+.custom-select-sm {
+    font-size: 0.91875rem;
+}
+
+.custom-select-lg {
+    font-size: 1.05rem;
+}
+
+.pagination-lg .page-link {
+    font-size: 1.3125rem;
+}
+
+.pagination-sm .page-link {
+    font-size: 0.91875rem;
+}
+
+.badge {
+    font-size: 78.75%;
+}
+
+.progress {
+    font-size: 1.05rem;
+}
+
+.close {
+    font-size: 1.575rem;
+}
+
+.toast {
+    font-size: 0.91875rem;
+}
+
+.tooltip {
+    font-size: 0.91875rem;
+}
+
+.popover {
+    font-size: 0.91875rem;
+}
+
+.popover-header {
+    font-size: 1.05rem;
+}
+
+html {
+    font-size: 16.8px;
+}
+
+.story p,
+p.story {
+    font-size: 1.18125rem;
+}
+
+.font-size-h1 {
+    font-size: 2.3625rem;
+}
+
+.font-size-h2 {
+    font-size: 1.96875rem;
+}
+
+.font-size-h3 {
+    font-size: 1.575rem;
+}
+
+.font-size-h4 {
+    font-size: 1.3125rem;
+}
+
+.font-size-h5 {
+    font-size: 1.18125rem;
+}
+
+.font-size-h6 {
+    font-size: 1.05rem;
+}
+
+.display-2 {
+    font-size: 3.85rem;
+}
+
+.display-3 {
+    font-size: 3.15rem;
+}
+
+.display-4 {
+    font-size: 2.45rem;
+}
+
+h1,
+.h1,
+.font-size-h1 {
+    font-size: 1.96875rem;
+}
+
+h2,
+.h2,
+.font-size-h2 {
+    font-size: 1.575rem;
+}
+
+h3,
+.h3,
+.font-size-h3 {
+    font-size: 1.3125rem;
+}
+
+h4,
+.h4,
+.font-size-h4 {
+    font-size: 1.18125rem;
+}
+
+h5,
+.h5,
+.font-size-h5,
+h6,
+.h6,
+.font-size-h6 {
+    font-size: 1.05rem;
+}
+
+.content-heading {
+    font-size: 0.91875rem;
+}
+
+.content-heading small {
+    font-size: 0.91875rem;
+}
+
+.table thead th {
+    font-size: 0.91875rem;
+}
+
+.nav-tabs-block .nav-link {
+    font-size: 0.91875rem;
+}
+
+.nav-tabs-alt .nav-link {
+    font-size: 0.91875rem;
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-itrem {
+    font-size: 0.91875rem;
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-itrem+.breadcrumb-itrem::before {
+    font-size: 0.91875rem;
+}
+
+.block-title {
+    font-size: 0.91875rem;
+}
+
+.block-title small {
+    font-size: 0.91875rem;
+}
+
+.block.block-mode-loading::after {
+    font-size: 1.18125rem;
+}
+
+.nav-main-heading {
+    font-size: 0.7875rem;
+}
+
+.nav-main-link {
+    font-size: 0.91875rem;
+}
+
+.nav-main-link .nav-main-link-badge {
+    font-size: 0.7875rem;
+}
+
+.nav-main-link.nav-main-link-submenu::before {
+    font-size: 0.7875rem;
+}
+
+.nav-main-submenu .nav-main-link {
+    font-size: 0.853125rem;
+}
+
+.font-size-base {
+    font-size: 1.05rem !important;
+}
+
+.font-size-lg {
+    font-size: 1.3125rem !important;
+}
+
+.font-size-sm {
+    font-size: 0.91875rem !important;
+}
+
+.fa-lg {
+    font-size: 1.4rem;
+}
+
+.fa-xs {
+    font-size: 0.7875rem;
+}
+
+.fa-sm {
+    font-size: 0.91875rem;
+}
+
+.fa-1x {
+    font-size: 1.05rem;
+}
+
+.fa-2x {
+    font-size: 2.1rem;
+}
+
+.fa-3x {
+    font-size: 3.15rem;
+}
+
+.fa-4x {
+    font-size: 4.2rem;
+}
+
+.fa-5x {
+    font-size: 5.25rem;
+}
+
+.fa-6x {
+    font-size: 6.3rem;
+}
+
+.fa-7x {
+    font-size: 7.35rem;
+}
+
+.fa-8x {
+    font-size: 8.4rem;
+}
+
+.fa-9x {
+    font-size: 9.45rem;
+}
+
+.fa-10x {
+    font-size: 10.5rem;
+}
+
+.fa-stack-2x {
+    font-size: 2.1rem;
+}
+
+.dropzone .dz-message {
+    font-size: 1.05rem;
+}
+
+.fc-threme-bootstrap .fc-col-header-cell {
+    font-size: 0.91875rem;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    font-size: 0.91875rem;
+}
+
+.slick-slider .slick-prev::before,
+.slick-slider .slick-next::before {
+    font-size: 29.4px;
+}
+
+#page-container.rtl-support .nav-main-link .nav-main-link-badge {
+    font-size: 0.7875rem;
+}

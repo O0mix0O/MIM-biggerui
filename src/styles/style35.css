@@ -1,21 +1,25 @@
+/* 35$ Styling */
+
+/* Default Styling Increased by 35% */
+
 body {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 small {
-    font-size: 96%;
+    font-size: 108%;
 }
 
 sub,
 sup {
-    font-size: 90%;
+    font-size: 101.25%;
 }
 
 pre,
 code,
 kbd,
 samp {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 input,
@@ -27,94 +31,94 @@ textarea {
 }
 
 legend {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 h1,
 .h1 {
-    font-size: 2.7rem;
+    font-size: 3.0375rem;
 }
 
 h2,
 .h2 {
-    font-size: 2.25rem;
+    font-size: 2.53125rem;
 }
 
 h3,
 .h3 {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 h4,
 .h4 {
-    font-size: 1.5rem;
+    font-size: 1.6875rem;
 }
 
 h5,
 .h5 {
-    font-size: 1.35rem;
+    font-size: 1.51875rem;
 }
 
 h6,
 .h6 {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .lead {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 .display-1 {
-    font-size: 7.2rem;
+    font-size: 8.1rem;
 }
 
 .display-2 {
-    font-size: 6.6rem;
+    font-size: 7.425rem;
 }
 
 .display-3 {
-    font-size: 5.4rem;
+    font-size: 5.85rem;
 }
 
 .display-4 {
-    font-size: 4.2rem;
+    font-size: 4.725rem;
 }
 
 small,
 .small {
-    font-size: 96%;
+    font-size: 108%;
 }
 
 .initialism {
-    font-size: 108%;
+    font-size: 121.5%;
 }
 
 .blockquote {
-    font-size: 1.5rem;
+    font-size: 1.6875rem;
 }
 
 .blockquote-footer {
-    font-size: 96%;
-}
-
-.figure-caption {
     font-size: 108%;
 }
 
+.figure-caption {
+    font-size: 121.5%;
+}
+
 code {
-    font-size: 1.05rem;
+    font-size: 118.125%;
 }
 
 kbd {
-    font-size: 1.05rem;
+    font-size: 118.125%;
 }
 
 kbd kbd {
-    font-size: 1.2rem;
+    font-size: 135%;
 }
 
 pre {
-    font-size: 1.05rem;
+    font-size: 118.125%;
 }
 
 pre code {
@@ -122,7 +126,7 @@ pre code {
 }
 
 .form-control {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .col-form-label {
@@ -130,65 +134,65 @@ pre code {
 }
 
 .col-form-label-lg {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .col-form-label-sm {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .form-control-plaintext {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .form-control-sm {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .form-control-lg {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .valid-feedback {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .valid-tooltip {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .invalid-feedback {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .invalid-tooltip {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .btn {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .btn-lg,
 .btn-group-lg>.btn {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .btn-sm,
 .btn-group-sm>.btn {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .dropdown-menu {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .dropdown-header {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .input-group-text {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .input-group-lg>.form-control,
@@ -197,7 +201,7 @@ pre code {
 .input-group-lg>.input-group-append>.input-group-text,
 .input-group-lg>.input-group-prepend>.btn,
 .input-group-lg>.input-group-append>.btn {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .input-group-sm>.form-control,
@@ -206,124 +210,124 @@ pre code {
 .input-group-sm>.input-group-append>.input-group-text,
 .input-group-sm>.input-group-prepend>.btn,
 .input-group-sm>.input-group-append>.btn {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .custom-select {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .custom-select-sm {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .custom-select-lg {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .pagination-lg .page-link {
-    font-size: 1.5rem;
+    font-size: 1.51875rem;
 }
 
 .pagination-sm .page-link {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .badge {
-    font-size: 90%;
+    font-size: 101.25%;
 }
 
 .progress {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .close {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 .toast {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .tooltip {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .popover {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .popover-header {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 html {
-    font-size: 19.2px;
+    font-size: 21.6px;
 }
 
 .story p,
 p.story {
-    font-size: 1.35rem;
+    font-size: 1.51875rem;
 }
 
 .font-size-h1 {
-    font-size: 2.7rem;
+    font-size: 3.0375rem;
 }
 
 .font-size-h2 {
-    font-size: 2.25rem;
+    font-size: 2.53125rem;
 }
 
 .font-size-h3 {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 .font-size-h4 {
-    font-size: 1.5rem;
+    font-size: 1.6875rem;
 }
 
 .font-size-h5 {
-    font-size: 1.35rem;
+    font-size: 1.51875rem;
 }
 
 .font-size-h6 {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .display-2 {
-    font-size: 4.4rem;
+    font-size: 4.95rem;
 }
 
 .display-3 {
-    font-size: 3.6rem;
+    font-size: 4.05rem;
 }
 
 .display-4 {
-    font-size: 2.8rem;
+    font-size: 3.15rem;
 }
 
 h1,
 .h1,
 .font-size-h1 {
-    font-size: 2.25rem;
+    font-size: 2.53125rem;
 }
 
 h2,
 .h2,
 .font-size-h2 {
-    font-size: 1.8rem;
+    font-size: 2.025rem;
 }
 
 h3,
 .h3,
 .font-size-h3 {
-    font-size: 1.5rem;
+    font-size: 1.6875rem;
 }
 
 h4,
 .h4,
 .font-size-h4 {
-    font-size: 1.35rem;
+    font-size: 1.51875rem;
 }
 
 h5,
@@ -332,154 +336,154 @@ h5,
 h6,
 .h6,
 .font-size-h6 {
-    font-size: 1.2rem;
-}
-
-.content-heading {
-    font-size: 1.05rem;
-}
-
-.content-heading small {
-    font-size: 1.05rem;
-}
-
-.table thead th {
-    font-size: 1.05rem;
-}
-
-.nav-tabs-block .nav-link {
-    font-size: 1.05rem;
-}
-
-.nav-tabs-alt .nav-link {
-    font-size: 1.05rem;
-}
-
-.breadcrumb.breadcrumb-alt .breadcrumb-item {
-    font-size: 1.05rem;
-}
-
-.breadcrumb.breadcrumb-alt .breadcrumb-item+.breadcrumb-item::before {
-    font-size: 1.05rem;
-}
-
-.block-title {
-    font-size: 1.05rem;
-}
-
-.block-title small {
-    font-size: 1.05rem;
-}
-
-.block.block-mode-loading::after {
     font-size: 1.35rem;
 }
 
+.content-heading {
+    font-size: 1.1475rem;
+}
+
+.content-heading small {
+    font-size: 1.1475rem;
+}
+
+.table thead th {
+    font-size: 1.1475rem;
+}
+
+.nav-tabs-block .nav-link {
+    font-size: 1.1475rem;
+}
+
+.nav-tabs-alt .nav-link {
+    font-size: 1.1475rem;
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-item {
+    font-size: 1.1475rem;
+}
+
+.breadcrumb.breadcrumb-alt .breadcrumb-item+.breadcrumb-item::before {
+    font-size: 1.1475rem;
+}
+
+.block-title {
+    font-size: 1.1475rem;
+}
+
+.block-title small {
+    font-size: 1.1475rem;
+}
+
+.block.block-mode-loading::after {
+    font-size: 1.51875rem;
+}
+
 .nav-main-heading {
-    font-size: 0.9rem;
+    font-size: 1.0125rem;
 }
 
 .nav-main-link {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .nav-main-link .nav-main-link-badge {
-    font-size: 0.9rem;
+    font-size: 1.0125rem;
 }
 
 .nav-main-link.nav-main-link-submenu::before {
-    font-size: 0.9rem;
+    font-size: 1.0125rem;
 }
 
 .nav-main-submenu .nav-main-link {
-    font-size: 0.975rem;
+    font-size: 1.0703125rem;
 }
 
 .font-size-base {
-    font-size: 1.2rem !important;
+    font-size: 1.35rem !important;
 }
 
 .font-size-lg {
-    font-size: 1.5rem !important;
+    font-size: 1.6875rem !important;
 }
 
 .font-size-sm {
-    font-size: 1.05rem !important;
+    font-size: 1.1475rem !important;
 }
 
 .fa-lg {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
 }
 
 .fa-xs {
-    font-size: 0.9rem;
+    font-size: 1.0125rem;
 }
 
 .fa-sm {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .fa-1x {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .fa-2x {
-    font-size: 2.4rem;
+    font-size: 2.7rem;
 }
 
 .fa-3x {
-    font-size: 3.6rem;
+    font-size: 4.05rem;
 }
 
 .fa-4x {
-    font-size: 4.8rem;
+    font-size: 5.4rem;
 }
 
 .fa-5x {
-    font-size: 6rem;
+    font-size: 6.75rem;
 }
 
 .fa-6x {
-    font-size: 7.2rem;
+    font-size: 8.1rem;
 }
 
 .fa-7x {
-    font-size: 8.4rem;
+    font-size: 9.45rem;
 }
 
 .fa-8x {
-    font-size: 9.6rem;
-}
-
-.fa-9x {
     font-size: 10.8rem;
 }
 
+.fa-9x {
+    font-size: 12.15rem;
+}
+
 .fa-10x {
-    font-size: 12rem;
+    font-size: 13.5rem;
 }
 
 .fa-stack-2x {
-    font-size: 2.4rem;
+    font-size: 2.7rem;
 }
 
 .dropzone .dz-message {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .fc-theme-bootstrap .fc-col-header-cell {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
-    font-size: 1.05rem;
+    font-size: 1.1475rem;
 }
 
 .slick-slider .slick-prev::before,
 .slick-slider .slick-next::before {
-    font-size: 33.6px;
+    font-size: 37.8px;
 }
 
 #page-container.rtl-support .nav-main-link .nav-main-link-badge {
-    font-size: 0.9rem;
+    font-size: 1.0125rem;
 }
